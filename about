@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>这是一个测试页面</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            text-align: center;
+            margin-top: 20%;
+        }
+        h1 {
+            font-size: 2em;
+            color: #007BFF;
+        }
+    </style>
+</head>
+<body>
+    <h1>这是一个测试</h1>
+    <p>欢迎访问我的第一个 GitHub Pages 页面！</p>
+</body>
+</html>
